@@ -7,7 +7,7 @@
  $headers = [
 
     "User-Agent: Example REST API Client",
-    "Authorization: token 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"
+    "Authorization: token ????????"
  ];
  
 
